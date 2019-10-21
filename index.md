@@ -6,7 +6,7 @@
 
 This workflow can be used for calculation of capillary pressure curves, relative permeability and the percolation pathway of grain packs/image slices.
 
-<img src="/images/nw_flow.jpg" align="middle" width="340" height="300" alt="nonwetting fluid">
+<img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
 
 ***
 
@@ -14,7 +14,7 @@ This workflow can be used for calculation of capillary pressure curves, relative
 
 This deep-learning based semantic image segmentation workflow (Google’s Deeplab-v3+ model implemented using Tensorflow) can be used to segment pores, silt-sized grains and clay from scanning electron microscope mudrock images.
 
-<img src="/images/sem_sample1.png" align="middle" width="550" height="300" alt="sem image">
+<img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="300" alt="sem image">
 
 ***
 
@@ -22,7 +22,7 @@ This deep-learning based semantic image segmentation workflow (Google’s Deepla
 
 This script attempts to examine if there are spatial correlations between the different spherical grains in a bidisperse (two-sized) grain pack by constructing variograms for measuring the spatial distribution of grain volumes and the inter-granular distances
 
-<img src="/images/bidisperse%20grain%20pack1.png" align="middle" width="300" height="300" alt="bidisperse grain pack">
+<img src="images/bidisperse%20grain%20pack1.png?raw=true" align="middle" width="300" height="300" alt="bidisperse grain pack">
 
 
 
