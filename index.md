@@ -121,14 +121,7 @@ Grading fortnightly undergraduate progress reports about field development and r
 ### Download
 
 ---
-
-Resume
-
----
-
-
-
-
+<p> <a href="pdf/Data%20science%20resume%20v2%20-%20Fall%2019.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 
 
