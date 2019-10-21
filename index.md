@@ -18,7 +18,7 @@ Mudrocks are a type of rock that act as geological seals for CO2 stored undergro
   
 Through pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using supercomputing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
   
-<img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="300" alt="fluid invasion">
+<img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="260" alt="fluid invasion">
 
 ---
 
