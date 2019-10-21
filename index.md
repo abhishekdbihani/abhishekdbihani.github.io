@@ -2,34 +2,27 @@
 
 ---
 
-### Category Name 1 
+[Multiphase LBM for Porous Media using the Palabos library](https://github.com/je-santos/MultiphasePorousMediaPalabos)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This workflow can be used for calculation of capillary pressure curves, relative permeability and the percolation pathway of grain packs/image slices.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/abhishekdbihani/abhishekdbihani.github.io/blob/master/images/nw_flow.jpg" align="middle" width="340" height="300" alt="nonwetting fluid">
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+***
 
----
+[Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
-### Category Name 2
+This deep-learning based semantic image segmentation workflow (Google’s Deeplab-v3+ model implemented using Tensorflow) can be used to segment pores, silt-sized grains and clay from scanning electron microscope mudrock images.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="https://github.com/abhishekdbihani/abhishekdbihani.github.io/blob/master/images/sem_sample1.png" align="middle" width="550" height="300" alt="sem image">
 
----
+***
+
+[Grain Variogram Calculation](https://github.com/abhishekdbihani/Grain-variogram-calculation)
+
+This script attempts to examine if there are spatial correlations between the different spherical grains in a bidisperse (two-sized) grain pack by constructing variograms for measuring the spatial distribution of grain volumes and the inter-granular distances
+
+<img src="https://github.com/abhishekdbihani/abhishekdbihani.github.io/blob/master/images/bidisperse%20grain%20pack1.png" align="middle" width="300" height="300" alt="bidisperse grain pack">
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
