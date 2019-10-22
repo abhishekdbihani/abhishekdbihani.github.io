@@ -143,6 +143,8 @@ President – MIT-SPE Student Chapter, July 2010 – June 2011
 
 ---
 
+*Role:* Teaching Assistant
+
 *Course:* Petroleum and Geosystems Engineering Design
 
 *Period:* Fall - 2019
