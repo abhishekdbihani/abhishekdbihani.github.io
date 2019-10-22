@@ -153,7 +153,7 @@ President – MIT-SPE Student Chapter, July 2010 – June 2011
 
 *Responsibilities:*
 
-Grading fortnightly undergraduate progress reports about field development and reservoir management, consisting of through oil-in-place estimation, decline curve analysis, material balance studies and drainage radii calculations using a combination of available field data.
+Grading and office hours for fortnightly progress reports about field development and reservoir management, consisting of through oil-in-place estimation, decline curve analysis, material balance studies and drainage radii calculations using a combination of available field data.
 
 ---
 
