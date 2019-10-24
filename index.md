@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a graduate researcher at the University of Texas at Austin studying fluid flow in rocks. My PhD research focus is on simulating hydrocarbon/CO2 flow in mudrocks to reduce risk during hydrocarbon exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogenous rocks.
+I am currently a graduate researcher at the University of Texas at Austin studying fluid flow in rocks. My PhD research focus is on simulating hydrocarbon/CO2 flow in mudrocks to reduce risk during hydrocarbon exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using analytics and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
@@ -16,7 +16,7 @@ I am excited about applying data science techniques and building machine learnin
 
 Mudrocks are a type of rock that act as geological seals for CO2 stored underground or for petroleum in subsurface reservoirs. They prevent leakage by stopping the fluids from flowing upwards through them. However, they can fail if the buoyant pressure of the trapped fluid overcomes their breakthrough pressure.
   
-Through pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using supercomputing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
+Through pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
   
 <img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="220" alt="fluid invasion">
 
@@ -67,6 +67,9 @@ This script attempts to examine if there are spatial correlations between the di
 ---
 
 ## Publications
+
+---
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=U0P3iV4AAAAJ)
 
 ---
 
