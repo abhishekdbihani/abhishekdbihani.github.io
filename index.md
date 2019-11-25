@@ -34,6 +34,14 @@ This lattice Boltzmann method-based workflow (implemented using PALABOS) can be 
 
 ***
 
+[Constructing a Synthetic NMR Well-log using Machine Learning](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)
+
+This project attempts to construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. 
+
+<img src="https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression/blob/master/KC151-logs.png" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
+
+***
+
 [Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
 This deep-learning based semantic image segmentation workflow (Google’s Deeplab-v3+ model implemented using Tensorflow) can be used to segment pores, silt-sized grains and clay from scanning electron microscope mudrock images.
@@ -76,8 +84,6 @@ This script attempts to examine if there are spatial correlations between the di
 ### A)	Peer-Reviewed Journal Articles
 
 *Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127.
-
-*Bihani A.*, Daigle H. (in review). Seal Capacity and Percolation of Silt-Clay Mixtures. Manuscript submitted to International Journal of Greenhouse Gas Control.
 
 ### B)	Conference and Non-reviewed Publications
 
