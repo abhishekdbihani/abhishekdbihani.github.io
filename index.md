@@ -38,7 +38,7 @@ This lattice Boltzmann method-based workflow (implemented using PALABOS) can be 
 
 This project attempts to construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. 
 
-<img src="https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression/blob/master/KC151-logs.png" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
+<img src="images/KC151-logs.png?raw=true" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
 
 ***
 
