@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a graduate researcher at the University of Texas at Austin studying fluid flow in rocks. My PhD research focus is on simulating hydrocarbon/CO2 flow in mudrocks to reduce risk during hydrocarbon exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks.
+I am a graduate researcher at the University of Texas at Austin with experience in Data Science, Computer Vision, and Machine / Deep Learning. My Ph.D. research focus is on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using analytics and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
@@ -16,7 +16,7 @@ I am excited about applying data science techniques and building machine learnin
 
 Mudrocks are a type of rock that act as geological seals for CO2 stored underground or for petroleum in subsurface reservoirs. They prevent leakage by stopping the fluids from flowing upwards through them. However, they can fail if the buoyant pressure of the trapped fluid overcomes their breakthrough pressure.
   
-Through pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
+Through a combination of techniques like pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
   
 <img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="220" alt="fluid invasion">
 
@@ -28,7 +28,7 @@ Through pore-network modeling, deep-learning aided image analysis, and lattice B
 
 [Multiphase LBM for Porous Media using the Palabos library](https://github.com/je-santos/MultiphasePorousMediaPalabos)
 
-This lattice Boltzmann method-based workflow (implemented using PALABOS) can be used for calculation of capillary pressure curves, relative permeability and the percolation pathway of grain packs/image slices.
+Co-developed a simulation software using the Palabos library for lattice Boltzmann (LBM) simulations for modeling multiphase flows and calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slicesin complex porous geometries .
 
 <img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
 
@@ -36,7 +36,7 @@ This lattice Boltzmann method-based workflow (implemented using PALABOS) can be 
 
 [Constructing a Synthetic NMR Well-log using Machine Learning](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)
 
-This project attempts to construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. 
+Generated a workflow for synthetic reconstruction of a missing nuclear magnetic resonance (NMR) well log from other well logs (Gamma Ray, Caliper, Resistivity logs and the interpreted porosity) at a Gulf of Mexico location, through feature engineering, time-series analysis techniques, and multivariate polynomial regression modeling using the Scikit-learn library to increase the training R2 value from 0.26 (multivariate linear regression) to 0.54.
 
 <img src="images/KC151-logs.png?raw=true" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
 
@@ -44,7 +44,7 @@ This project attempts to construct a missing well log from other available well 
 
 [Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
-This deep-learning based semantic image segmentation workflow (Google’s Deeplab-v3+ model implemented using Tensorflow) can be used to segment pores, silt-sized grains and clay from scanning electron microscope mudrock images.
+Constructed Digital Rock Physics and Deep Learning (Deeplab-v3+ with TensorFlow) based image processing and segmentation workflows to identify features like pores, silt, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy.
 
 <img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="300" alt="sem image">
 
@@ -52,7 +52,7 @@ This deep-learning based semantic image segmentation workflow (Google’s Deepla
 
 [Grain Variogram Calculation](https://github.com/abhishekdbihani/Grain-variogram-calculation)
 
-This script attempts to examine if there are spatial correlations between the different spherical grains in a bidisperse (two-sized) grain pack by constructing variograms for measuring the spatial distribution of grain volumes and the inter-granular distances
+Created a script to examine if there are spatial correlations between the different spherical grains in a bidisperse (two-sized) grain pack by constructing variograms for measuring the spatial distribution of grain volumes and the inter-granular distances
 
 <img src="images/bidisperse%20grain%20pack1.png?raw=true" align="middle" width="300" height="300" alt="bidisperse grain pack">
 
@@ -64,13 +64,13 @@ This script attempts to examine if there are spatial correlations between the di
 
 **Programming:** MATLAB, Python, C++
 
-**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, TensorFlow, Keras, Palabos
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, Seaborn, Keras, Palabos
 
 **Analytics:** Spotfire, Tableau, PHDWin, SPSS
 
 **Databases:** MySQL
 
-**Technical Knowledge:** Digital Rock Petrophysics, Computer Vision, Neural Networks, High-Performance Computing, Git, Bash
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Digital Rock Physics, Porous Media Flow Simulations, Computer Vision, Neural Networks, High-Performance Computing, Git, Bash
 
 ---
 
@@ -130,7 +130,7 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 ---
 
-Department of Petroleum and Geosystems Engineering Research Award at GAIN 2019, Austin
+Department of Petroleum and Geosystems Engineering Research Award at GAIN Conference 2019, Austin
 
 Statoil/Equinor Fellowship, UT Austin, 2016-2019
 
@@ -169,7 +169,7 @@ Grading and office hours for fortnightly progress reports about field developmen
 ### Download
 
 ---
-<p> <a href="pdf/Data%20science%20resume%20v2%20-%20Fall%2019.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
+<p> <a href="pdf/Resume%20v1%20-%20Spring%202020-%20Abhishek%20B.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 
 
