@@ -44,7 +44,7 @@ Generated a workflow for synthetic reconstruction of a missing nuclear magnetic 
 
 [Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
-Constructed Digital Rock Physics and Deep Learning (Deeplab-v3+ with TensorFlow) based image processing and segmentation workflows to identify features like pores, silt, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy.
+Constructed conventional (MATLAB) and convolutional neural network (Deeplab-v3+ with TensorFlow) based image processing and segmentation workflows to identify features like pores, silt, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) results (~ 0.75) better than the random forest method (~ 0.5).
 
 <img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="300" alt="sem image">
 
