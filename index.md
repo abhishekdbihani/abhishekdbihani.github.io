@@ -124,6 +124,12 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 *Bihani A.*, Haindade Z., Jain D. (2012). A study on Electrolysis assisted Gas-Lift for Dewatering CBM Reservoirs. Association of Petroleum Geologists Conference, 30 September, Duliajan, Assam, India. 
 
+### E) Datasets 
+
+*Bihani, A.*, & Daigle, H. (2019, March 5). Bidisperse sphere packs generated under gravity. Retrieved February 23, 2020, from http://www.digitalrocksportal.org/projects/204
+
+*Bihani, A.*, Daigle, H., Prodanovic, M., Milliken, K., Landry, C., & E. Santos, J. (2020, January 20). Mudrock images from Nankai Trough. Retrieved February 23, 2020, from http://www.digitalrocksportal.org/projects/259
+
 ---
 
 ## Awards and Leadership
