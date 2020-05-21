@@ -20,6 +20,10 @@ Through a combination of techniques like pore-network modeling, deep-learning ai
   
 <img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="220" alt="fluid invasion">
 
+The following video shows comparison of an upwards percolating non-wetting fluid (green) such as oil, natural gas or CO2 in two grain packs (brown), one with low silt (left) and another with high silt (right). Both, the low silt (23%) and high silt (57%) grain packs have 46% porosity. The fluid flows more easily as the pressure across the grain packs increase. It can be seen that more fluid percolation occurs and earlier breakthrough occurs in the high silt grain pack due to larger pore space between the grains. 
+
+[![Fluid percolation behavior in grain packs (low/high silt)](http://img.youtube.com/vi/uW3dGtqeNgM/0.jpg)](http://www.youtube.com/watch?v=uW3dGtqeNgM "Fluid percolation behavior in grain packs (low/high silt)")
+
 ---
 
 ## Portfolio
@@ -64,13 +68,13 @@ Created a script to examine if there are spatial correlations between the differ
 
 **Programming:** MATLAB, Python, C++
 
-**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, Seaborn, Keras, Palabos
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, SageMaker, Seaborn, Keras, Palabos, LIGGGHTS
 
 **Analytics:** Spotfire, Tableau, PHDWin, SPSS
 
 **Databases:** MySQL
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Digital Rock Physics, Porous Media Flow Simulations, Computer Vision, Neural Networks, High-Performance Computing, Git, Bash
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Digital Rock Physics, Porous Media Flow Simulations, Computer Vision, Neural Networks, High-Performance Computing, Git, Bash, AWS
 
 ---
 
