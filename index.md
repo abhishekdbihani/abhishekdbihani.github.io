@@ -22,7 +22,7 @@ Through a combination of techniques like pore-network modeling, deep-learning ai
 
 The following video shows comparison of an upwards percolating non-wetting fluid (green) such as oil, natural gas or CO2 in two grain packs (brown), one with low silt (left) and another with high silt (right). Both, the low silt (23%) and high silt (57%) grain packs have 46% porosity. The fluid flows more easily as the pressure across the grain packs increase. It can be seen that more fluid percolation occurs and earlier breakthrough occurs in the high silt grain pack due to larger pore space between the grains. 
 
-<img src="images/percolation%20video1.gif" align="middle" width="700" height="400" alt="Fluid percolation behavior in grain packs (low/high silt">
+<img src="images/percolation%20video1.gif" align="middle" width="700" height="300" alt="Fluid percolation behavior in grain packs (low/high silt">
 
 ---
 
