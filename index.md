@@ -2,15 +2,17 @@
 
 ---
 
-I am a graduate researcher at the University of Texas at Austin with experience in Data Science, Computer Vision, and Machine / Deep Learning. My Ph.D. research focus is on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks.
+I am a Computer Vision, Machine / Deep Learning, and Computational fluid flow researcher with a Ph.D. in Petroleum Engineering from the University of Texas at Austin. 
+
+My Ph.D. research focus was on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics and machine learning.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using analytics and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
-I am excited about applying data science techniques and building machine learning models to help analyze complex and huge datasets faster, objectively, and more accurately. As a data scientist, I want to extract the maximum possible information from the data available from various sources, so that we can use it to make optimal decisions while guided by expert knowledge. I am interested in creating workflows which are cross-domain and have a high impact on the end consumer.
+I am excited about applying data science techniques and building machine learning models to help analyze complex and huge datasets faster, objectively, and more accurately. I want to extract the maximum possible information from the data available from various sources, so that we can use it to make optimal decisions while guided by expert knowledge. I am interested in creating workflows which are cross-domain and have a high impact on the end consumer.
 
 ---
 
-## Current Research
+## Ph.D. Research
 
 ---
 
@@ -22,7 +24,7 @@ Through a combination of techniques like pore-network modeling, deep-learning ai
 
 The following video shows comparison of an upwards percolating non-wetting fluid (green) such as oil, natural gas or CO2 in two grain packs (brown), one with low silt (left) and another with high silt (right). Both, the low silt (23%) and high silt (57%) grain packs have 46% porosity. The fluid flows more easily as the pressure across the grain packs increase. It can be seen that more fluid percolation occurs and earlier breakthrough occurs in the high silt grain pack due to larger pore space between the grains. 
 
-<img src="images/percolation%20video1.gif" align="middle" width="700" height="220" alt="Fluid percolation behavior in grain packs (low/high silt">
+<img src="images/percolation%20video1.gif" align="middle" width="700" height="240" alt="Fluid percolation behavior in grain packs (low/high silt">
 
 ---
 
@@ -32,7 +34,7 @@ The following video shows comparison of an upwards percolating non-wetting fluid
 
 [Multiphase LBM for Porous Media using the Palabos library](https://github.com/je-santos/MultiphasePorousMediaPalabos)
 
-Co-developed a simulation software using the Palabos library for lattice Boltzmann (LBM) simulations for modeling multiphase flows and calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slicesin complex porous geometries .
+Co-developed a computational simulation toolbox for modeling multiphase flows on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
 
 <img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
 
@@ -54,11 +56,11 @@ Constructed conventional (MATLAB) and convolutional neural network (Deeplab-v3+ 
 
 ***
 
-[Grain Variogram Calculation](https://github.com/abhishekdbihani/Grain-variogram-calculation)
+[Uniaxial Compaction and Force-chain Analysis of Bidisperse Grain packs](https://github.com/abhishekdbihani/compaction_LIGGGHTS)
 
-Created a script to examine if there are spatial correlations between the different spherical grains in a bidisperse (two-sized) grain pack by constructing variograms for measuring the spatial distribution of grain volumes and the inter-granular distances
+Created a workflow to simulate creation of a bidisperse (two-sized) grain pack under gravity and study the grain behavior subjected to uniaxial compaction, using the LIGGGHTS library (C++) on HPC resources. Scripts for post-processing like calculating, plotting and visualizing coordination numbers and force chains to study the grain behavior when subjected to compaction are also provided.
 
-<img src="images/bidisperse%20grain%20pack1.png?raw=true" align="middle" width="300" height="300" alt="bidisperse grain pack">
+<img src="images/example%20compaction%20picture.png?raw=true" align="middle" width="550" height="300" alt="sem image">
 
 ---
 
@@ -66,15 +68,17 @@ Created a script to examine if there are spatial correlations between the differ
 
 ---
 
-**Programming:** MATLAB, Python, C++
+**Programming:** MATLAB, Python, C++, Git, Bash
 
-**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, SageMaker, Seaborn, Keras, Palabos, LIGGGHTS
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, SageMaker, Seaborn, Keras, Palabos, LIGGGHTS, OpenMP, MPI
 
-**Analytics:** Spotfire, Tableau, PHDWin, SPSS
+**Analytics:** Spotfire, Tableau, SPSS
 
 **Databases:** MySQL
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Digital Rock Physics, Porous Media Flow Simulations, Computer Vision, Neural Networks, High-Performance Computing, Git, Bash, AWS
+**Cloud Computing:** AWS (SageMaker)
+
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Neural Networks, High-Performance Computing, Computational Fluid Simulations in Porous Media, Digital Rock Physics, Petrophysics 
 
 ---
 
@@ -136,25 +140,43 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 ---
 
-## Awards and Leadership
+## Professional Development
 
 ---
 
-Department of Petroleum and Geosystems Engineering Research Award at GAIN Conference 2019, Austin
+**Awards**
 
-Statoil/Equinor Fellowship, UT Austin, 2016-2019
+Department of Petroleum and Geosystems Engineering Research Award  			     GAIN Conference Austin, 2019
 
-Advanced Communicator Bronze/Competent Communicator/Competent Leader – Toastmasters International, September 2011
+Advanced Communicator Bronze / Competent Leader  					                   Toastmasters International, 2011
 
-Graduate Faculty Selection Committee, UT Austin, 2017-2019 
+**Grants and Fellowships**
 
-Young Professionals Committee - Society of Petroleum Engineers, Oil India Limited, 2012-2014
+Statoil/Equinor Fellowship 									                                 UT Austin, 2016 – 2019
 
-Presiding Officer – Indian Parliamentary Election, Dibrugarh Constituency, May 2014
+Research Fellowship, U.S. Department of Energy						                   UT Austin, 2014 – 2016
 
-Vice President, Public Relations – Toastmasters Club of Pune-West, August 2010 – June 2011
+**Service**
 
-President – MIT-SPE Student Chapter, July 2010 – June 2011
+Graduate Faculty Selection Committee 								                         UT Austin, 2017 – 2019
+
+Young Professionals Committee - Society of Petroleum Engineers               Oil India Limited, 2012 - 2014 
+
+Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election		 Election Commission of India, 2014
+
+Vice President, Public Relations  					                                 Toastmasters Club of Pune – West, 2010 – 2011
+
+President  	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011
+
+**Memberships in Professional Societies**
+
+Member, American Geophysical Union (AGU)
+
+Member, International Society for Porous Media (Interpore)
+
+Member, Society of Petroleum Engineers (SPE) 
+
+Member, Society of Petrophysicists and Well Log Analysts (SPWLA)
 
 ---
 
@@ -172,16 +194,14 @@ President – MIT-SPE Student Chapter, July 2010 – June 2011
 
 *Responsibilities:*
 
-Grading and office hours for fortnightly progress reports about field development and reservoir management, consisting of through oil-in-place estimation, decline curve analysis, material balance studies and drainage radii calculations using a combination of available field data.
+Grading fortnightly progress reports and holding office hours for a senior design project about field development and reservoir management, consisting of through oil-in-place estimation, decline curve analysis, material balance studies, and drainage radii calculations using a combination of available field data.
 
 ---
 
 ### Download
 
 ---
-<p> <a href="pdf/Resume%20v1%20-%20Spring%202020-%20Abhishek%20B.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
+<p> <a href="pdf/Abhishek%20-%20ds%20resume%20v3%20-%20Spring%202020.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
-
-
-
+---
