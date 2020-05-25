@@ -2,7 +2,7 @@
 
 ---
 
-I am a Computer Vision, Machine / Deep Learning, and Computational fluid flow researcher with a Ph.D. in Petroleum Engineering from the University of Texas at Austin. 
+I am a Computer Vision, Machine/Deep Learning, and Computational fluid flow researcher with a Ph.D. in Petroleum Engineering from the University of Texas at Austin. 
 
 My Ph.D. research focus was on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics and machine learning.
 
@@ -146,27 +146,27 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 **Awards**
 
-Department of Petroleum and Geosystems Engineering Research Award  			     GAIN Conference Austin, 2019
+Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019
 
-Advanced Communicator Bronze / Competent Leader  					                   Toastmasters International, 2011
+Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011
 
 **Grants and Fellowships**
 
-Statoil/Equinor Fellowship 									                                 UT Austin, 2016 – 2019
+Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019
 
-Research Fellowship, U.S. Department of Energy						                   UT Austin, 2014 – 2016
+Research Fellowship, U.S. Department of Energy,						                     UT Austin, 2014 – 2016
 
 **Service**
 
-Graduate Faculty Selection Committee 								                         UT Austin, 2017 – 2019
+Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019
 
-Young Professionals Committee - Society of Petroleum Engineers               Oil India Limited, 2012 - 2014 
+Young Professionals Committee - Society of Petroleum Engineers,                Oil India Limited, 2012 - 2014 
 
-Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election		 Election Commission of India, 2014
+Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014
 
-Vice President, Public Relations  					                                 Toastmasters Club of Pune – West, 2010 – 2011
+Vice President, Public Relations,   					                                 Toastmasters Club of Pune – West, 2010 – 2011
 
-President  	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011
+President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011
 
 **Memberships in Professional Societies**
 
