@@ -70,7 +70,7 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Programming:** MATLAB, Python, C++, Git, Bash
 
-**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, SageMaker, Seaborn, Keras, Palabos, LIGGGHTS, OpenMP, MPI
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, Seaborn, Keras, Palabos, LIGGGHTS, OpenMP, MPI
 
 **Analytics:** Spotfire, Tableau, SPSS
 
@@ -198,7 +198,7 @@ Grading fortnightly progress reports and holding office hours for a senior desig
 
 ---
 
-### Download
+## Download
 
 ---
 
