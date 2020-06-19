@@ -2,7 +2,7 @@
 
 ---
 
-I am a Machine/Deep Learning, Computer Vision, and Computational Fluid Flow Researcher with a Ph.D. in Petroleum Engineering from the University of Texas at Austin. 
+I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Flow in my work, with a Ph.D. degree from the University of Texas at Austin. 
 
 My Ph.D. research focus was on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics and machine learning.
 
