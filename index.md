@@ -2,11 +2,11 @@
 
 ---
 
-I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Flow in my work, with a Ph.D. degree from the University of Texas at Austin. 
+I am a Researcher working on Machine/Deep Learning, Computer Vision, and Computational Fluid Flow.
 
-My Ph.D. research focus was on simulating hydrocarbon/CO2 flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO2 sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics and machine learning.
+I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
-Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using analytics and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
+Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
 I am excited about applying data science techniques and building machine learning models to help analyze complex and huge datasets faster, objectively, and more accurately. I want to extract the maximum possible information from the data available from various sources, so that we can use it to make optimal decisions while guided by expert knowledge. I am interested in creating workflows which are cross-domain and have a high impact on the end consumer.
 
@@ -16,13 +16,13 @@ I am excited about applying data science techniques and building machine learnin
 
 ---
 
-Mudrocks are a type of rock that act as geological seals for CO2 stored underground or for petroleum in subsurface reservoirs. They prevent leakage by stopping the fluids from flowing upwards through them. However, they can fail if the buoyant pressure of the trapped fluid overcomes their breakthrough pressure.
+Mudrocks are a type of rock that act as geological seals for CO<sub>2</sub> stored underground or for petroleum in subsurface reservoirs. They prevent leakage by stopping the fluids from flowing upwards through them. However, they can fail if the buoyant pressure of the trapped fluid overcomes their breakthrough pressure.
   
-Through a combination of techniques like pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO2/hydrocarbon leakage through the seal.
+Through a combination of techniques like pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO<sub>2</sub>/hydrocarbon leakage through the seal.
   
 <img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="220" alt="fluid invasion">
 
-The following video shows comparison of an upwards percolating non-wetting fluid (green) such as oil, natural gas or CO2 in two grain packs (brown), one with low silt (left) and another with high silt (right). Both, the low silt (23%) and high silt (57%) grain packs have 46% porosity. The fluid flows more easily as the pressure across the grain packs increase. It can be seen that more fluid percolation occurs and earlier breakthrough occurs in the high silt grain pack due to larger pore space between the grains. 
+The following video shows comparison of an upwards percolating non-wetting fluid (green) such as oil, natural gas or CO<sub>2</sub> in two grain packs (brown), one with low silt (left) and another with high silt (right). Both, the low silt (23%) and high silt (57%) grain packs have 46% porosity. The fluid flows more easily as the pressure across the grain packs increase. It can be seen that more fluid percolation occurs and earlier breakthrough occurs in the high silt grain pack due to larger pore space between the grains. 
 
 <img src="images/percolation%20video1.gif" align="middle" width="700" height="240" alt="Fluid percolation behavior in grain packs (low/high silt">
 
@@ -32,11 +32,19 @@ The following video shows comparison of an upwards percolating non-wetting fluid
 
 ---
 
-[Multiphase LBM for Porous Media using the Palabos library](https://github.com/je-santos/MultiphasePorousMediaPalabos)
+[Multiphase LBM Toolbox for porous media analysis](https://github.com/je-santos/MultiphasePorousMediaPalabos)
 
-Co-developed a computational simulation toolbox for modeling multiphase flows on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
+Co-developed and released an open-source computational simulation toolbox for modeling multiphase flows in porous media on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
 
 <img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
+
+***
+
+[Home Credit Default Risk Recognition](https://github.com/abhishekdbihani/Home-Credit-Default-Risk-Recognition)
+
+Trained a binary classifier in Python to recognize the risk of housing loan default in imbalanced data using a complete end-to-end machine learning workflow. Used ETL processes to connect relational databases through automated feature engineering, and applied machine learning methods like logistic regression, random forest, and gradient boosting (Scikit-learn, XGBoost, LightGBM) for understanding client factors that cause loan default. Improved ROC AUC from 0.745 (base case) to 0.786 on the test dataset with K-fold cross-validation and hyperparameter tuning methods like grid/random search, and Bayesian optimization.
+
+<img src="images/roc_auc_compare.PNG?raw=true" align="middle" width="400" height="300" alt="ROC AUC classifier comparison" >
 
 ***
 
@@ -70,15 +78,23 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Programming:** MATLAB, Python, C++, Git, Bash
 
-**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, TensorFlow, XGBoost, Seaborn, Keras, Palabos, LIGGGHTS, OpenMP, MPI
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Featuretools, Hyperopt, Palabos, LIGGGHTS
 
 **Analytics:** Spotfire, Tableau, SPSS
 
-**Databases:** MySQL
+**Database:** MySQL
 
 **Cloud Computing:** AWS (SageMaker)
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Neural Networks, High-Performance Computing, Computational Fluid Simulations in Porous Media, Digital Rock Physics, Petrophysics 
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Flow in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
+
+---
+
+## Certifications
+
+[Computer Vision Nanodegree](https://graduation.udacity.com/confirm/SC5C7E5A) (2020). Udacity
+
+[Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/CSYW6GKW) (2020). Udacity
 
 ---
 
@@ -107,7 +123,8 @@ Padalkar C., Arora A., Punase A., Patwardhan S., *Bihani A.* (2012). P-092: Impr
 
 Arora A., *Bihani A.*, Padalkar C., Punase A., Patwardhan S. (2011). IPTC 14669: Side-wall Coring: Advanced In-situ Freeze-Core Technique. International Petroleum Technology Conference, 15-17 November, Bangkok, Thailand. 
 
-Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 142658: ‘SOYBEAN SLURRY’- A New Effective, Economical and Environmentally Friendly Solution for Oil Congealing. SPE Project and Facilities Challenges Conference at METS, 13-16 Feb, Doha, Qatar.             
+Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 142658: ‘SOYBEAN SLURRY’- A New Effective, Economical and Environmentally Friendly Solution for Oil Congealing. SPE Project and Facilities Challenges Conference at METS, 13-16 Feb, Doha, Qatar. 
+
 ### C) Oral Presentations
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2019). H44B-06: Insight into the Sealing Capacity of Mudrocks determined using a Digital Rock Physics Workflow. AGU Fall Meeting, 9-13 December, San Francisco, USA.
@@ -146,27 +163,49 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 **Awards**
 
-Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019
+Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019 \
+<i> Award for best research poster among 20+ candidates </i>
+<p>&nbsp;</p>
 
-Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011
+Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011 \
+<i> Awards for completing 20 public speaking assignments and holding 10+ roles in Toastmasters meetings  </i>
+<p>&nbsp;</p>
+
+Ravindra Kulkarni Silver Medal,                                               Maharashtra Institute of Technology, 2011 \
+<i> Award for 2nd highest grade in graduating class of 70+ students  </i>
+<p>&nbsp;</p>
 
 **Grants and Fellowships**
 
-Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019
+Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019 \
+<i> Doctoral Fellowship for 3 years of $58,000 per year for studying flow in porous media through numerical simulations  </i>  
+<p>&nbsp;</p>
 
-Research Fellowship, U.S. Department of Energy,						                     UT Austin, 2014 – 2016
+Research Fellowship, U.S. Department of Energy,						                   UT Austin, 2014 – 2016 \
+<i> Masters Fellowship for 2 years of $55,000 per year for studying deposition and flow of methane hydrates in the Gulf of Mexico  </i>  
+<p>&nbsp;</p>
 
 **Service**
 
-Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019
+Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 \
+<i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
+<p>&nbsp;</p>
 
-Young Professionals Committee - Society of Petroleum Engineers,                Oil India Limited, 2012 - 2014 
+Young Professionals Committee - Society of Petroleum Engineers,               Oil India Limited, 2012 - 2014 \
+<i> Organized quarterly Distinguished Lecture Programs, conducted outreach activities to raise awareness about energy production and conservation </i>  
+<p>&nbsp;</p>
 
-Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014
+Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014 \
+<i> Supervised team of six allowing 749 people to vote in the Indian Parliamentary election of 2014  </i>  
+<p>&nbsp;</p>
 
-Vice President, Public Relations,   					                                 Toastmasters Club of Pune – West, 2010 – 2011
+Vice President, Public Relations,  					                                 Toastmasters Club of Pune – West, 2010 – 2011 \
+<i> Promoted Toastmasters to the general public and conducted PR activities to increase membership strength by maintaining club website, editing club magazine, and interviewing with local news media </i>   
+<p>&nbsp;</p>
 
-President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011
+President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011 \
+<i> Organized national-level conference by raising 6000 USD and received the Gold Standard award for exceptional work  </i>  
+<p>&nbsp;</p>
 
 **Memberships in Professional Societies**
 
