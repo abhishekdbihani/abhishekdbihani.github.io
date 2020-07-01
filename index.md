@@ -76,13 +76,11 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 ---
 
-**Programming:** MATLAB, Python, C++, Git, Bash
+**Programming:** MATLAB, Python, C++, Git, Bash, SQL
 
 **Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Featuretools, Hyperopt, Palabos, LIGGGHTS
 
-**Analytics:** Spotfire, Tableau, SPSS
-
-**Database:** MySQL
+**Analytics:** Tableau, SPSS
 
 **Cloud Computing:** AWS (SageMaker)
 
@@ -163,49 +161,50 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 **Awards**
 
-Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019 \
+Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019 <br/>
 <i> Award for best research poster among 20+ candidates </i>
 <p>&nbsp;</p>
 
-Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011 \
+Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011 <br/>
 <i> Awards for completing 20 public speaking assignments and holding 10+ roles in Toastmasters meetings  </i>
 <p>&nbsp;</p>
 
-Ravindra Kulkarni Silver Medal,                                               Maharashtra Institute of Technology, 2011 \
+Ravindra Kulkarni Silver Medal,                                               Maharashtra Institute of Technology, 2011 <br/>
 <i> Award for 2nd highest grade in graduating class of 70+ students  </i>
 <p>&nbsp;</p>
 
 **Grants and Fellowships**
 
-Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019 \
+Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019 <br/>
 <i> Doctoral Fellowship for 3 years of $58,000 per year for studying flow in porous media through numerical simulations  </i>  
 <p>&nbsp;</p>
 
-Research Fellowship, U.S. Department of Energy,						                   UT Austin, 2014 – 2016 \
+Research Fellowship, U.S. Department of Energy,						                   UT Austin, 2014 – 2016 <br/>
 <i> Masters Fellowship for 2 years of $55,000 per year for studying deposition and flow of methane hydrates in the Gulf of Mexico  </i>  
 <p>&nbsp;</p>
 
 **Service**
 
-Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 \
+Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
 <i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
 <p>&nbsp;</p>
 
-Young Professionals Committee - Society of Petroleum Engineers,               Oil India Limited, 2012 - 2014 \
+Young Professionals Committee - Society of Petroleum Engineers,               Oil India Limited, 2012 - 2014 <br/>
 <i> Organized quarterly Distinguished Lecture Programs, conducted outreach activities to raise awareness about energy production and conservation </i>  
 <p>&nbsp;</p>
 
-Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014 \
+Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014 <br/>
 <i> Supervised team of six allowing 749 people to vote in the Indian Parliamentary election of 2014  </i>  
 <p>&nbsp;</p>
 
-Vice President, Public Relations,  					                                 Toastmasters Club of Pune – West, 2010 – 2011 \
+Vice President, Public Relations,  					                                 Toastmasters Club of Pune – West, 2010 – 2011 <br/>
 <i> Promoted Toastmasters to the general public and conducted PR activities to increase membership strength by maintaining club website, editing club magazine, and interviewing with local news media </i>   
 <p>&nbsp;</p>
 
-President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011 \
+President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011 <br/>
 <i> Organized national-level conference by raising 6000 USD and received the Gold Standard award for exceptional work  </i>  
 <p>&nbsp;</p>
+
 
 **Memberships in Professional Societies**
 
