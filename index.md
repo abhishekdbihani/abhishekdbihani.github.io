@@ -2,7 +2,7 @@
 
 ---
 
-I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Dynamics in Porous Media in my work.
+I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
 
 I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
