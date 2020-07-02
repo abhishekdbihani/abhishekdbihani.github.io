@@ -2,7 +2,7 @@
 
 ---
 
-I am a Researcher working on Machine/Deep Learning, Computer Vision, and Computational Fluid Flow.
+I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Dynamics in Porous Media in my work.
 
 I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
@@ -32,7 +32,7 @@ The following video shows comparison of an upwards percolating non-wetting fluid
 
 ---
 
-[Multiphase LBM Toolbox for porous media analysis](https://github.com/je-santos/MultiphasePorousMediaPalabos)
+[Multiphase LBM Toolbox: Permeable media analysis using the Palabos library and in-house codes](https://github.com/je-santos/MultiphasePorousMediaPalabos)
 
 Co-developed and released an open-source computational simulation toolbox for modeling multiphase flows in porous media on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
 
@@ -163,47 +163,47 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 Department of Petroleum and Geosystems Engineering Research Award,  			     GAIN Conference Austin, 2019 <br/>
 <i> Award for best research poster among 20+ candidates </i>
-<p>&nbsp;</p>
+<br/>
 
 Advanced Communicator Bronze / Competent Leader,  					                   Toastmasters International, 2011 <br/>
 <i> Awards for completing 20 public speaking assignments and holding 10+ roles in Toastmasters meetings  </i>
-<p>&nbsp;</p>
+<br/>
 
 Ravindra Kulkarni Silver Medal,                                               Maharashtra Institute of Technology, 2011 <br/>
 <i> Award for 2nd highest grade in graduating class of 70+ students  </i>
-<p>&nbsp;</p>
+<br/>
 
 **Grants and Fellowships**
 
 Statoil/Equinor Fellowship, 									                                 UT Austin, 2016 – 2019 <br/>
 <i> Doctoral Fellowship for 3 years of $58,000 per year for studying flow in porous media through numerical simulations  </i>  
-<p>&nbsp;</p>
+<br/>
 
 Research Fellowship, U.S. Department of Energy,						                   UT Austin, 2014 – 2016 <br/>
 <i> Masters Fellowship for 2 years of $55,000 per year for studying deposition and flow of methane hydrates in the Gulf of Mexico  </i>  
-<p>&nbsp;</p>
+<br/>
 
 **Service**
 
 Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
 <i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
-<p>&nbsp;</p>
+<br/>
 
 Young Professionals Committee - Society of Petroleum Engineers,               Oil India Limited, 2012 - 2014 <br/>
 <i> Organized quarterly Distinguished Lecture Programs, conducted outreach activities to raise awareness about energy production and conservation </i>  
-<p>&nbsp;</p>
+<br/>
 
 Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014 <br/>
 <i> Supervised team of six allowing 749 people to vote in the Indian Parliamentary election of 2014  </i>  
-<p>&nbsp;</p>
+<br/>
 
 Vice President, Public Relations,  					                                 Toastmasters Club of Pune – West, 2010 – 2011 <br/>
 <i> Promoted Toastmasters to the general public and conducted PR activities to increase membership strength by maintaining club website, editing club magazine, and interviewing with local news media </i>   
-<p>&nbsp;</p>
+<br/>
 
 President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011 <br/>
 <i> Organized national-level conference by raising 6000 USD and received the Gold Standard award for exceptional work  </i>  
-<p>&nbsp;</p>
+<br/>
 
 
 **Memberships in Professional Societies**
@@ -240,6 +240,6 @@ Grading fortnightly progress reports and holding office hours for a senior desig
 
 ---
 
-<p> <a href="pdf/Abhishek%20-%20ds%20resume%20v3%20-%20Spring%202020.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
+<p> <a href="pdf/Abhishek%20-%20resume%20%202020%20-%201pg.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 ---
