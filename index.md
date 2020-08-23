@@ -58,7 +58,7 @@ Generated a workflow for synthetic reconstruction of a missing nuclear magnetic 
 
 [MudrockNet: Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
-Constructed a conventional image processing and segmentation (MATLAB) workflow for ground-truth, and a convolutional neural network (Deeplab-v3+ with TensorFlow) segmentation model termed MudrockNet to identify features like pores, silt grains, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) test results (> 0.65) better than the random forest method (~ 0.5).
+Constructed a conventional image processing and segmentation (MATLAB) workflow for ground-truth, and a convolutional neural network segmentation model termed MudrockNet (using Deeplab-v3+ architecture with TensorFlow)  to identify features like pores, silt grains, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) test results (> 0.65) better than the random forest method (~ 0.5).
 
 <img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="300" alt="sem image">
 
@@ -108,6 +108,9 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 *Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127.
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences.
+
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Geochemistry, Geophysics, Geosystems.
+
 
 ### B)	Conference and Non-reviewed Publications
 
