@@ -18,7 +18,7 @@ I am excited about applying data science techniques and building machine learnin
 
 Mudrocks are a type of rock that act as geological seals for CO<sub>2</sub> stored underground or for petroleum in subsurface reservoirs. They prevent leakage by stopping the fluids from flowing upwards through them. However, they can fail if the buoyant pressure of the trapped fluid overcomes their breakthrough pressure.
   
-Through a combination of techniques like pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I study the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I have reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO<sub>2</sub>/hydrocarbon leakage through the seal.
+Through a combination of techniques like pore-network modeling, deep-learning aided image analysis, and lattice Boltzmann simulations, I studied the structure of the mudrock seals to determine the conditions when the caprock can fail and permit flow of the underlying stored fluid. For this purpose, I reconstructed the 3D rock structures (and the space between them) from scanning electron microscope images and conducted flow simulations using high-performance computing resources. I found that correlated heterogeneity (connected larger spaces between rock grains) can greatly increase chances of CO<sub>2</sub>/hydrocarbon leakage through the seal. I conveyed my inferences to my research sponsor, Equinor, as well as other researchers through conferences and papers for reducing the risk during petroleum exploration and carbon sequestration.
   
 <img src="images/invasion%20schematic.png?raw=true" align="middle" width="700" height="220" alt="fluid invasion">
 
@@ -33,6 +33,8 @@ The following video shows comparison of an upwards percolating non-wetting fluid
 ---
 
 [Multiphase LBM Toolbox: Permeable media analysis using the Palabos library and in-house codes](https://github.com/je-santos/MultiphasePorousMediaPalabos)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842280.svg)](https://doi.org/10.5281/zenodo.3842280)
 
 Co-developed and released an open-source computational simulation toolbox for modeling multiphase flows in porous media on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
 
@@ -65,6 +67,8 @@ Constructed a conventional image processing and segmentation (MATLAB) workflow f
 ***
 
 [Uniaxial Compaction and Force-chain Analysis of Bidisperse Grain packs](https://github.com/abhishekdbihani/compaction_LIGGGHTS)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4021433.svg)](https://doi.org/10.5281/zenodo.4021433)
 
 Created a workflow to simulate creation of a bidisperse (two-sized) grain pack under gravity and study the grain behavior subjected to uniaxial compaction, using the LIGGGHTS library (C++) on HPC resources. Scripts for post-processing like calculating, plotting and visualizing coordination numbers and force chains to study the grain behavior when subjected to compaction are also provided.
 
@@ -105,11 +109,13 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 ### A)	Peer-Reviewed Journal Articles
 
-*Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127.
+*Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127. https://doi.org/10.1016/j.marpetgeo.2019.04.038
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences.
 
-Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Geochemistry, Geophysics, Geosystems.
+*Bihani A.*, Daigle H. (in review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth.
+
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth.
 
 
 ### B)	Conference and Non-reviewed Publications
@@ -120,13 +126,13 @@ Daigle H., Cook A., Malinverno A., Nole M., *Bihani A.*, Andris R., Wei L., Hill
 
 Jain D., *Bihani A.* (2014). PETROTECH A-2238: Crude Oil Viscosity Correlations: A Novel Approach for Upper Assam Basin. Petrotech Conference, New Delhi, India.
 
-Haindade Z., *Bihani A.*, Javeri S., Jere C. (2012). SPE 157119: Enhancing Flow Assurance using Co-Ni Nanoparticles for Dewaxing of Production Tubing. SPE International Oilfield Nanotechnology Conference and Exhibition, 12-14 June, Noordwijk, The Netherlands.
+Haindade Z., *Bihani A.*, Javeri S., Jere C. (2012). SPE 157119: Enhancing Flow Assurance using Co-Ni Nanoparticles for Dewaxing of Production Tubing. SPE International Oilfield Nanotechnology Conference and Exhibition, 12-14 June, Noordwijk, The Netherlands. https://doi.org/10.2118/157119-MS
 
 Padalkar C., Arora A., Punase A., Patwardhan S., *Bihani A.* (2012). P-092: Improved Core recovery using in-situ freezing. 9th Biennial International Conference and Exposition on Petroleum Geophysics. 16-18 February, Hyderabad, India. 
 
-Arora A., *Bihani A.*, Padalkar C., Punase A., Patwardhan S. (2011). IPTC 14669: Side-wall Coring: Advanced In-situ Freeze-Core Technique. International Petroleum Technology Conference, 15-17 November, Bangkok, Thailand. 
+Arora A., *Bihani A.*, Padalkar C., Punase A., Patwardhan S. (2011). IPTC 14669: Side-wall Coring: Advanced In-situ Freeze-Core Technique. International Petroleum Technology Conference, 15-17 November, Bangkok, Thailand. https://doi.org/10.2523/IPTC-14669-MS
 
-Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 142658: ‘SOYBEAN SLURRY’- A New Effective, Economical and Environmentally Friendly Solution for Oil Congealing. SPE Project and Facilities Challenges Conference at METS, 13-16 Feb, Doha, Qatar. 
+Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 142658: ‘SOYBEAN SLURRY’- A New Effective, Economical and Environmentally Friendly Solution for Oil Congealing. SPE Project and Facilities Challenges Conference at METS, 13-16 Feb, Doha, Qatar. https://doi.org/10.2118/142658-MS
 
 ### C) Oral Presentations
 
@@ -142,7 +148,7 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 ### D) Poster Presentations 
 
-*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2019). Insight into the Sealing Capacity of Mudrocks determined using Digital Rock Physics. TACC Symposium for Texas Researchers (TACCSTER), 26-27 September, Austin, TX, USA.
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2019). Insight into the Sealing Capacity of Mudrocks determined using Digital Rock Physics. TACC Symposium for Texas Researchers (TACCSTER), 26-27 September, Austin, TX, USA. http://dx.doi.org/10.26153/tsw/6874
 
 *Bihani A.*, Daigle H. (2019). Investigating Sealing Capacity and Percolation in Mudrocks through Grain Scale Modeling. Presented at the Spring 2019 Virtual Poster Showcase, American Geophysical Union, Washington, DC.
 
@@ -154,9 +160,9 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 ### E) Datasets 
 
-*Bihani, A.*, & Daigle, H. (2019, March 5). Bidisperse sphere packs generated under gravity. Retrieved February 23, 2020, from http://www.digitalrocksportal.org/projects/204
+*Bihani, A.*, & Daigle, H. (2019, March 5). Bidisperse sphere packs generated under gravity [Data set]. Digital Rocks Portal. http://doi.org/10.17612/P74T20
 
-*Bihani, A.*, Daigle, H., Prodanovic, M., Milliken, K., Landry, C., & E. Santos, J. (2020, January 20). Mudrock images from Nankai Trough. Retrieved February 23, 2020, from http://www.digitalrocksportal.org/projects/259
+*Bihani, A.*, Daigle, H., Prodanovic, M., Milliken, K., Landry, C., & E. Santos, J. (2020, January 20). Mudrock images from Nankai Trough [Data set]. Digital Rocks Portal. https://doi.org/10.17612/BVXS-BC79
 
 ---
 
@@ -235,6 +241,7 @@ Grading fortnightly progress reports and holding office hours for a senior desig
 
 ---
 
-<p> <a href="pdf/Abhishek%20-%20resume%20%202020%20-%201pg.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
+<p> <a href="pdf/Abhishek%20-%20resume%20%202020%20-%202pgs.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 ---
+
