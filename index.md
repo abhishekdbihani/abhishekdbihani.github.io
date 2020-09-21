@@ -105,6 +105,8 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=U0P3iV4AAAAJ)
 
+ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1522-4192" href="https://orcid.org/0000-0002-1522-4192" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-1522-4192</a></div>
+
 ---
 
 ### A)	Peer-Reviewed Journal Articles
@@ -113,9 +115,9 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences.
 
-*Bihani A.*, Daigle H. (in review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth.
+*Bihani A.*, Daigle H. (in review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10504349.1
 
-Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth.
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1
 
 
 ### B)	Conference and Non-reviewed Publications
