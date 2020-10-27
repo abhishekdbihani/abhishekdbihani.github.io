@@ -4,7 +4,7 @@
 
 I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
 
-I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through pore network modeling, deep learning aided image analysis, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through image analysis, deep-learning aided image segmentation, pore network modeling, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
@@ -82,13 +82,13 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Programming:** MATLAB, Python, C++, Git, Bash, SQL
 
-**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Featuretools, Hyperopt, Palabos, LIGGGHTS
+**Libraries:** NumPy, SciPy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, PyTorch, TensorFlow, Keras, PySpark, XGBoost, LightGBM, Featuretools, Hyperopt, Palabos, LIGGGHTS
 
 **Analytics:** Tableau, SPSS
 
 **Cloud Computing:** AWS (SageMaker)
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Flow in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Image Analysis, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
 
 ---
 
@@ -115,7 +115,9 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences.
 
-*Bihani A.*, Daigle H. (in review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10504349.1
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis. Marine & Petroleum Geology.
+
+*Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10504349.1
 
 Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1
 
@@ -160,11 +162,18 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 *Bihani A.*, Haindade Z., Jain D. (2012). A study on Electrolysis assisted Gas-Lift for Dewatering CBM Reservoirs. Association of Petroleum Geologists Conference, 30 September, Duliajan, Assam, India. 
 
-### E) Datasets 
+### E) Published Datasets 
 
 *Bihani, A.*, & Daigle, H. (2019, March 5). Bidisperse sphere packs generated under gravity [Data set]. Digital Rocks Portal. http://doi.org/10.17612/P74T20
 
 *Bihani, A.*, Daigle, H., Prodanovic, M., Milliken, K., Landry, C., & E. Santos, J. (2020, January 20). Mudrock images from Nankai Trough [Data set]. Digital Rocks Portal. https://doi.org/10.17612/BVXS-BC79
+
+### F) Published Code Repositories
+
+*Bihani, A.*, & Daigle, H. (2020, September 9). Uniaxial Compaction and Force-chain Analysis of Bidisperse Grain Packs. Zenodo. http://doi.org/10.5281/zenodo.4021433
+
+Santos J. E., *Bihani, A.*, & Landry, C. J. (2020, May 25). MP-LBM-UT: Multiphase LBM Toolbox for permeable media analysis. Zenodo. http://doi.org/10.5281/zenodo.3842280
+
 
 ---
 
