@@ -86,13 +86,15 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Analytics:** Tableau, SPSS
 
-**Cloud Computing:** AWS (SageMaker)
+**Cloud Computing:** AWS (SageMaker, S3, EC2, Kinesis, Glue, Athena, QuickSight)
 
 **Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Image Analysis, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
 
 ---
 
 ## Certifications
+
+AWS Certified Machine Learning - Specialty (2020). AWS.
 
 [Computer Vision Nanodegree](https://graduation.udacity.com/confirm/SC5C7E5A) (2020). Udacity
 
