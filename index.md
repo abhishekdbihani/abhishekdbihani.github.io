@@ -96,7 +96,7 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 ---
 
-<img src="images/certification%20logos.png?raw=true" align="middle" width="600" height="270" alt="certification logos">
+<img src="images/certification%20logos.png?raw=true" align="middle" width="600" height="250" alt="certification logos">
 
 [AWS Certified Machine Learning - Specialty (MLS-C01)](https://www.youracclaim.com/earner/earned/badge/fef4071d-9451-4316-9258-df8b5b9bae2e) (2020). AWS.
 
@@ -111,7 +111,7 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 ---
 
-<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="250" alt="certification logos">
+<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="220" alt="certification logos">
 
 <b> The University of Texas at Austin, USA </b>
 
