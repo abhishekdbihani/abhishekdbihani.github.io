@@ -125,6 +125,22 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 ---
 
+## Experience
+
+---
+
+<img src="images/experience%20logos.PNG?raw=true" align="middle" width="600" height="110" alt="certification logos">
+
+Graduate Researcher – Center for Subsurface Energy & Environment (CSEE), University of Texas at Austin, Aug 2014 – May 2020
+
+Reservoir Engineer – Geology & Reservoir Engineering Department, Oil India Limited (OIL), Oct 2011 – Jul 2014
+
+Undergraduate Intern – Oil and Natural Gas Corporation of India (ONGC), Jan 2011 – Jun 2011 
+
+Summer Intern – Essar Oil Limited, Jun 2010 – Jul 2010
+
+---
+
 ## Publications
 
 ---
