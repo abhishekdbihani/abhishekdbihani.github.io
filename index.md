@@ -4,11 +4,11 @@
 
 I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
 
-I hold a Ph.D. degree from the University of Texas at Austin, where my doctoral research involved simulating hydrocarbon/CO<sub>2</sub> flow in mudrocks through image analysis, deep-learning aided image segmentation, pore network modeling, and lattice Boltzmann simulations to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+I have experience building machine learning workflows in the cloud and I have finished the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different data sources available, so that we can use it to make optimal decisions that have a high impact on the end consumer.
+
+I completed my Ph.D. from the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
-
-I am excited about applying data science techniques and building machine learning models to help analyze complex and huge datasets faster, objectively, and more accurately. I want to extract the maximum possible information from the data available from various sources, so that we can use it to make optimal decisions while guided by expert knowledge. I am interested in creating workflows which are cross-domain and have a high impact on the end consumer.
 
 ---
 
@@ -86,19 +86,42 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Analytics:** Tableau, SPSS
 
-**Cloud Computing:** AWS (SageMaker, S3, EC2, Kinesis, Glue, Athena, QuickSight)
+**Cloud Computing:** AWS (SageMaker, S3, EC2, ECR, Kinesis, Glue, Athena, QuickSight)
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Image Analysis, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
+**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Image Analysis, AWS, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
 
 ---
 
 ## Certifications
 
-AWS Certified Machine Learning - Specialty (2020). AWS.
+---
+
+<img src="images/certification%20logos.png?raw=true" align="middle" width="600" height="270" alt="certification logos">
+
+[AWS Certified Machine Learning - Specialty (MLS-C01)](https://www.youracclaim.com/earner/earned/badge/fef4071d-9451-4316-9258-df8b5b9bae2e) (2020). AWS.
 
 [Computer Vision Nanodegree](https://graduation.udacity.com/confirm/SC5C7E5A) (2020). Udacity
 
 [Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/CSYW6GKW) (2020). Udacity
+
+---
+
+
+## Education
+
+---
+
+<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="250" alt="certification logos">
+
+<b> The University of Texas at Austin, USA </b>
+
+Ph.D. - Petroleum Engineering,  			            		         	          May 2020
+
+M.S.  - Petroleum Engineering, 						 		       	                    May 2016
+
+<b> Maharashtra Institute of Technology, University of Pune, India </b>
+
+B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 ---
 
