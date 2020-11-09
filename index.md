@@ -4,9 +4,9 @@
 
 I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
 
-I have experience building machine learning workflows in the cloud and I have finished the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different data sources available, so that we can use it to make optimal decisions that have a high impact on the end consumer.
+I have experience building machine learning workflows in the cloud and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
 
-I completed my Ph.D. from the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
@@ -62,7 +62,7 @@ Generated a workflow for synthetic reconstruction of a missing nuclear magnetic 
 
 Constructed a conventional image processing and segmentation (MATLAB) workflow for ground-truth, and a convolutional neural network segmentation model termed MudrockNet (using Deeplab-v3+ architecture with TensorFlow)  to identify features like pores, silt grains, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) test results (> 0.65) better than the random forest method (~ 0.5).
 
-<img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="300" alt="sem image">
+<img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="270" alt="sem image">
 
 ***
 
@@ -72,7 +72,7 @@ Constructed a conventional image processing and segmentation (MATLAB) workflow f
 
 Created a workflow to simulate creation of a bidisperse (two-sized) grain pack under gravity and study the grain behavior subjected to uniaxial compaction, using the LIGGGHTS library (C++) on HPC resources. Scripts for post-processing like calculating, plotting and visualizing coordination numbers and force chains to study the grain behavior when subjected to compaction are also provided.
 
-<img src="images/example%20compaction%20picture.png?raw=true" align="middle" width="550" height="300" alt="sem image">
+<img src="images/example%20compaction%20picture.png?raw=true" align="middle" width="550" height="320" alt="sem image">
 
 ---
 
@@ -111,7 +111,7 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 ---
 
-<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="220" alt="certification logos">
+<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="230" alt="certification logos">
 
 <b> The University of Texas at Austin, USA </b>
 
