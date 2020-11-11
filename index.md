@@ -131,7 +131,7 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 <img src="images/experience%20logos.PNG?raw=true" align="middle" width="700" height="120" alt="certification logos">
 
-<b> Graduate Researcher </b> – Center for Subsurface Energy & Environment (CSEE), University of Texas at Austin, Aug 2014 – May 2020
+<b> Graduate Researcher </b> – Center for Subsurface Energy & the Environment (CSEE), University of Texas at Austin, Aug 2014 – May 2020
 
 <b> Reservoir Engineer </b> – Geology & Reservoir Engineering Department, Oil India Limited (OIL), Oct 2011 – Jul 2014
 
@@ -156,7 +156,7 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. [PDF](https://www.researchgate.net/publication/343808876_MudrockNet_Semantic_Segmentation_of_Mudrock_SEM_Images_through_Deep_Learning)
 
-*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis. Marine & Petroleum Geology.
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis. Marine & Petroleum Geology. [PDF](https://www.researchgate.net/publication/345731962_Investigating_Silt_Bridging_in_Marine_Muds_of_the_Kumano_Forearc_Basin_through_Image_Analysis)
 
 *Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
