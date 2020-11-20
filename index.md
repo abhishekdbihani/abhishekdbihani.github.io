@@ -158,7 +158,7 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis. Marine & Petroleum Geology. [PDF](https://www.researchgate.net/publication/345731962_Investigating_Silt_Bridging_in_Marine_Muds_of_the_Kumano_Forearc_Basin_through_Image_Analysis)
 
-*Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
+*Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
 Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1. [PDF](https://doi.org/10.1002/essoar.10503987.1)
 
