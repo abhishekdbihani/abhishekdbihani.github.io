@@ -160,7 +160,7 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 *Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
-Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-review). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1. [PDF](https://doi.org/10.1002/essoar.10503987.1)
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-press). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1. [PDF](https://doi.org/10.1002/essoar.10503987.1)
 
 
 ### B)	Conference and Non-reviewed Publications
@@ -246,7 +246,7 @@ Research Fellowship, U.S. Department of Energy,						                   UT Austi
 Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
 <i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
 
-Young Professionals Committee - Society of Petroleum Engineers,               Oil India Limited, 2012 - 2014 <br/>
+Young Professionals Committee - Society of Petroleum Engineers,               Duliajan Section, 2012 - 2014 <br/>
 <i> Organized quarterly Distinguished Lecture Programs, conducted outreach activities to raise awareness about energy production and conservation </i>  
 
 Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	 Election Commission of India, 2014 <br/>
@@ -258,6 +258,12 @@ Vice President, Public Relations,  					                                 Toastma
 President, 	                                                                 Society of Petroleum Engineers Student Chapter, 2010 – 2011 <br/>
 <i> Organized national-level conference by raising 6000 USD and received the Gold Standard award for exceptional work  </i>  
 
+Editor, 	Society of Petroleum Engineers Student Chapter, 2009 – 2010 <br/>
+<i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i> 
+
+Webmaster, 	Toastmasters Club of Pune,  2009 – 2011 <br/>
+<i> Maintained and updated club website, posted new articles and sent out periodic invitations for the weekly meeting  </i> 
+
 
 **Memberships in Professional Societies**
 
@@ -268,6 +274,11 @@ Member, International Society for Porous Media (Interpore)
 Member, Society of Petroleum Engineers (SPE) 
 
 Member, Society of Petrophysicists and Well Log Analysts (SPWLA)
+
+Member, The Computer Vision Foundation (CVF)
+
+Member, Toronto Machine Learning Society	 (TMLS)	
+
 
 ---
 
