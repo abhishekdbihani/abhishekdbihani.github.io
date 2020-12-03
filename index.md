@@ -32,13 +32,11 @@ The following video shows comparison of an upwards percolating non-wetting fluid
 
 ---
 
-[Multiphase LBM Toolbox: Permeable media analysis using the Palabos library and in-house codes](https://github.com/je-santos/MultiphasePorousMediaPalabos)
+[Constructing a Synthetic NMR Well-log using Machine Learning](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842280.svg)](https://doi.org/10.5281/zenodo.3842280)
+Generated a workflow for synthetic reconstruction of a missing nuclear magnetic resonance (NMR) well log from other well logs (Gamma Ray, Caliper, Resistivity logs and the interpreted porosity) at a Gulf of Mexico location, through feature engineering, time-series analysis techniques, and multivariate polynomial regression modeling using the Scikit-learn library to increase the training R2 value from 0.26 (multivariate linear regression) to 0.54.
 
-Co-developed and released an open-source computational simulation toolbox for modeling multiphase flows in porous media on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
-
-<img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
+<img src="images/KC151-logs.png?raw=true" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
 
 ***
 
@@ -50,19 +48,21 @@ Trained a binary classifier in Python to recognize the risk of housing loan defa
 
 ***
 
-[Constructing a Synthetic NMR Well-log using Machine Learning](https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression)
-
-Generated a workflow for synthetic reconstruction of a missing nuclear magnetic resonance (NMR) well log from other well logs (Gamma Ray, Caliper, Resistivity logs and the interpreted porosity) at a Gulf of Mexico location, through feature engineering, time-series analysis techniques, and multivariate polynomial regression modeling using the Scikit-learn library to increase the training R2 value from 0.26 (multivariate linear regression) to 0.54.
-
-<img src="images/KC151-logs.png?raw=true" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
-
-***
-
 [MudrockNet: Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
 
 Constructed a conventional image processing and segmentation (MATLAB) workflow for ground-truth, and a convolutional neural network segmentation model termed MudrockNet (using Deeplab-v3+ architecture with TensorFlow)  to identify features like pores, silt grains, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) test results (> 0.65) better than the random forest method (~ 0.5).
 
 <img src="images/sem_sample1.png?raw=true" align="middle" width="550" height="270" alt="sem image">
+
+***
+
+[Multiphase LBM Toolbox: Permeable media analysis using the Palabos library and in-house codes](https://github.com/je-santos/MultiphasePorousMediaPalabos)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842280.svg)](https://doi.org/10.5281/zenodo.3842280)
+
+Co-developed and released an open-source computational simulation toolbox for modeling multiphase flows in porous media on high-performance computing (HPC) resources, and characterizing petrophysical properties of complex porous geometries. The toolbox uses the Palabos library (C++) for lattice Boltzmann (LBM) simulations and in-house scripts created in MATLAB for calculating petrophysical properties like capillary pressure curves, relative permeability and the percolation pathway across grain packs/image slices in complex porous geometries .
+
+<img src="images/nw_flow.jpg?raw=true" align="middle" width="340" height="300" alt="nonwetting fluid"> 
 
 ***
 
