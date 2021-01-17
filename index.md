@@ -304,7 +304,7 @@ Grading fortnightly progress reports and holding office hours for a senior desig
 
 ---
 
-<p> <a href="pdf/Abhishek%20-%20resume%20%202020%20-%202pgs.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
+<p> <a href="pdf/Abhishek%20-%20resume%202020%20-%202pgs.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 ---
 
