@@ -2,7 +2,7 @@
 
 ---
 
-I am a Researcher using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
+I am a Data Scientist using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
 
 I have experience building machine learning workflows in the cloud and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
 
@@ -297,14 +297,6 @@ Member, Toronto Machine Learning Society	 (TMLS)
 *Responsibilities:*
 
 Grading fortnightly progress reports and holding office hours for a senior design project about field development and reservoir management, consisting of through oil-in-place estimation, decline curve analysis, material balance studies, and drainage radii calculations using a combination of available field data.
-
----
-
-## Download
-
----
-
-<p> <a href="pdf/Abhishek%20-%20resume%202020%20-%202pgs.pdf" target="_blank"> Here </a> is a copy of my resume. </p>
 
 ---
 
