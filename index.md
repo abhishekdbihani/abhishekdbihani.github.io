@@ -2,9 +2,9 @@
 
 ---
 
-I am a Data Scientist using Machine/Deep Learning, Computer Vision, and Computational Fluid Simulations in Porous Media in my work.
+I am a Data Scientist using Machine/Deep Learning, Time Series Analysis, Image Processing and Physics-based simulations in my work.
 
-I have experience building machine learning workflows in the cloud and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
+I have experience building digital twins of complex industrial and subsurface processes and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
 
 I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
@@ -48,7 +48,7 @@ Trained a binary classifier in Python to recognize the risk of housing loan defa
 
 ***
 
-[MudrockNet: Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/deeplabV3_pores-grains)
+[MudrockNet: Semantic segmentation of mudrock SEM images](https://github.com/abhishekdbihani/MudrockNet)
 
 Constructed a conventional image processing and segmentation (MATLAB) workflow for ground-truth, and a convolutional neural network segmentation model termed MudrockNet (using Deeplab-v3+ architecture with TensorFlow)  to identify features like pores, silt grains, and clay from scanning electron microscope (SEM) images with > 90% pixel-accuracy, and mean intersection over union (mIoU) test results (> 0.65) better than the random forest method (~ 0.5).
 
@@ -86,9 +86,9 @@ Created a workflow to simulate creation of a bidisperse (two-sized) grain pack u
 
 **Analytics:** Tableau, SPSS
 
-**Cloud Computing:** AWS (SageMaker, S3, EC2, ECR, Kinesis, Glue, Athena, QuickSight)
+**Cloud Computing:** AWS (SageMaker, S3, EC2), Azure Machine Learning
 
-**Technical Knowledge:** Subsurface Machine / Deep Learning, Computer Vision, Image Analysis, AWS, Neural Networks, Statistical Analysis, High-Performance Computing, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
+**Technical Knowledge:** Machine / Deep Learning, Computer Vision, Image Analysis, Time-series Analysis, Surrogate Modeling, Computational Fluid Dynamics (CFD) in Porous Media, Digital Rock Physics, Petrophysics, Reservoir Engineering 
 
 ---
 
@@ -131,6 +131,8 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 <img src="images/experience%20logos.PNG?raw=true" align="middle" width="700" height="120" alt="certification logos">
 
+<b> Data Scientist </b> – Tignis Inc., Mar 2021 – Present
+
 <b> Graduate Researcher </b> – Center for Subsurface Energy & the Environment (CSEE), University of Texas at Austin, Aug 2014 – May 2020
 
 <b> Reservoir Engineer </b> – Geology & Reservoir Engineering Department, Oil India Limited (OIL), Oct 2011 – Jul 2014
@@ -154,13 +156,13 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 *Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127. https://doi.org/10.1016/j.marpetgeo.2019.04.038. [PDF](https://doi.org/10.1016/j.marpetgeo.2019.04.038)
 
-*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. [PDF](https://www.researchgate.net/publication/343808876_MudrockNet_Semantic_Segmentation_of_Mudrock_SEM_Images_through_Deep_Learning)
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. [PDF](https://arxiv.org/abs/2102.03393)
 
-*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis. Marine & Petroleum Geology. [PDF](https://www.researchgate.net/publication/345731962_Investigating_Silt_Bridging_in_Marine_Muds_of_the_Kumano_Forearc_Basin_through_Image_Analysis)
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. Preprint. Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis.  [PDF](https://www.researchgate.net/publication/345731962_Investigating_Silt_Bridging_in_Marine_Muds_of_the_Kumano_Forearc_Basin_through_Image_Analysis)
 
 *Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
-Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (in-press). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1002/essoar.10503987.1. [PDF](https://doi.org/10.1002/essoar.10503987.1)
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (2020). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1029/2020JB020835. [PDF](https://doi.org/10.1002/essoar.10503987.1)
 
 
 ### B)	Conference and Non-reviewed Publications
@@ -243,6 +245,12 @@ Research Fellowship, U.S. Department of Energy,						                   UT Austi
 
 **Service**
 
+Editorial Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
+<i> Source and edit articles from distinguished people relevant to Canadian Science Policy </i>
+
+Evaluation and Reports Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
+<i> Create surveys, analyze data and write reports for Canadian Science Policy Centre events </i>
+
 Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
 <i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
 
@@ -267,18 +275,21 @@ Webmaster, 	Toastmasters Club of Pune,  2009 – 2011 <br/>
 
 **Memberships in Professional Societies**
 
-Member, American Geophysical Union (AGU)
+Member, Canadian Science Policy Centre (CSPC)
 
-Member, International Society for Porous Media (Interpore)
+Member, Toronto Machine Learning Society (TMLS)	
+
+Member, Aggregate Intellect (AISC)
+
+Member, American Geophysical Union (AGU)
 
 Member, Society of Petroleum Engineers (SPE) 
 
-Member, Society of Petrophysicists and Well Log Analysts (SPWLA)
+Member, International Society for Porous Media (Interpore)
 
 Member, The Computer Vision Foundation (CVF)
 
-Member, Toronto Machine Learning Society	 (TMLS)	
-
+Member, Society of Petrophysicists and Well Log Analysts (SPWLA)
 
 ---
 
