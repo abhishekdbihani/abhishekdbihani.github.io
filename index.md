@@ -246,10 +246,10 @@ Research Fellowship, U.S. Department of Energy,						                   UT Austi
 **Service**
 
 Editorial Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
-<i> Source and edit articles from distinguished people relevant to Canadian Science Policy </i>
+<i> Source and edit articles from distinguished people relevant to the Canadian science policy space </i>
 
 Evaluation and Reports Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
-<i> Create surveys, analyze data and write reports for Canadian Science Policy Centre events </i>
+<i> Create surveys, analyze data and write reports for Canadian Science Policy Centre </i>
 
 Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
 <i> Interviewed potential new department faculty, met external department reviewers, and conducted outreach activities  </i>  
