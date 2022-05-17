@@ -154,15 +154,17 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 
 ### A)	Peer-Reviewed Journal Articles
 
-*Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127. https://doi.org/10.1016/j.marpetgeo.2019.04.038. [PDF](https://doi.org/10.1016/j.marpetgeo.2019.04.038)
+*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2022). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. https://doi.org/10.1016/j.cageo.2021.104952. [PDF](https://www.sciencedirect.com/science/article/pii/S0098300421002387)
 
-*Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (in-review). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. [PDF](https://arxiv.org/abs/2102.03393)
+Santos J., Gigliotti, A., *Bihani A.*, Landry C., Hesse, M., Pyrcz, M., Prodanović M. (2022). MPLBM-UT: Multiphase LBM library for permeable media analysis. SoftwareX. https://doi.org/10.1016/j.softx.2022.101097 [PDF](https://www.sciencedirect.com/science/article/pii/S2352711022000668)
+
+Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (2020). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1029/2020JB020835. [PDF](https://doi.org/10.1002/essoar.10503987.1)
+
+*Bihani A.*, Daigle H. (2019). On the Role of Spatially Correlated Heterogeneity in Determining Mudrock Sealing Capacity for CO2 Sequestration. Marine and Petroleum Geology, 106(106), 116–127. https://doi.org/10.1016/j.marpetgeo.2019.04.038. [PDF](https://doi.org/10.1016/j.marpetgeo.2019.04.038)
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. Preprint. Investigating Silt Bridging in Marine Muds of the Kumano Forearc Basin through Image Analysis.  [PDF](https://www.researchgate.net/publication/345731962_Investigating_Silt_Bridging_in_Marine_Muds_of_the_Kumano_Forearc_Basin_through_Image_Analysis)
 
-*Bihani A.*, Daigle H. (in-review). Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
-
-Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (2020). Gas-driven tensile fracturing in shallow marine sediments. Journal of Geophysical Research- Solid Earth. https://doi.org/10.1029/2020JB020835. [PDF](https://doi.org/10.1002/essoar.10503987.1)
+*Bihani A.*, Daigle H. Preprint. Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
 
 ### B)	Conference and Non-reviewed Publications
