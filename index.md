@@ -2,11 +2,11 @@
 
 ---
 
-I am a Data Scientist using Machine/Deep Learning, Time Series Analysis, Image Processing and Physics-based simulations in my work.
+I am a Data Scientist using Machine/Deep Learning, Time Series Analysis, Image Processing, and Physics-informed neural networks (PINNs) in my work.
 
-I have experience building digital twins of complex industrial and subsurface processes and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
+I have experience building surrogate models of complex industrial and subsurface processes and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
 
-I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations (eg. LBM, DEM etc.) in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
 
 Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
 
@@ -151,8 +151,15 @@ B.E.  - Petroleum Engineering (Honors: Silver Medalist),			 		        May 2011
 [ORCID](https://orcid.org/0000-0002-1522-4192)<a itemprop="sameAs" content="https://orcid.org/0000-0002-1522-4192" href="https://orcid.org/0000-0002-1522-4192" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 ---
+### A)	Theses / Dissertations
 
-### A)	Peer-Reviewed Journal Articles
+*Bihani A.*, (2020). Grain-scale controls on seal integrity in mudrocks: capillary entry pressure and permeability prediction. Ph.D. Dissertation. http://dx.doi.org/10.26153/tsw/14843. [PDF](https://repositories.lib.utexas.edu/handle/2152/87899)
+
+*Bihani A.*, (2016). Pore Size Distribution and Methane Equilibrium Conditions at Walker
+Ridge Block 313, Northern Gulf of Mexico. M.S. Thesis. http://hdl.handle.net/2152/38192 [PDF](https://repositories.lib.utexas.edu/handle/2152/38192)
+
+
+### B)	Peer-Reviewed Journal Articles
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2022). MudrockNet: Semantic Segmentation of Mudrock SEM Images through Deep Learning. Computers & Geosciences. https://doi.org/10.1016/j.cageo.2021.104952. [PDF](https://www.sciencedirect.com/science/article/pii/S0098300421002387)
 
@@ -167,7 +174,7 @@ Daigle, H., Cook, A. E., Fang, Y., *Bihani, A.*, Song, W., Flemings, P. B. (2020
 *Bihani A.*, Daigle H. Preprint. Seal Capacity, Force Chains, and Percolation in Silt-Clay Mixtures. Preprint. https://doi.org/10.1002/essoar.10504349.1. [PDF](https://doi.org/10.1002/essoar.10504349.1)
 
 
-### B)	Conference and Non-reviewed Publications
+### C)	Conference and Non-reviewed Publications
 
 *Bihani A.* (2018). The Effects of Lifting the U.S. Oil Export Ban on Market Equilibrium. Journal of Petroleum Resource Economics, October. [PDF](https://www.researchgate.net/publication/328492767_The_Effects_of_Lifting_the_US_Oil_Export_Ban_on_Market_Equilibrium)
 
@@ -183,7 +190,7 @@ Arora A., *Bihani A.*, Padalkar C., Punase A., Patwardhan S. (2011). IPTC 14669:
 
 Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 142658: ‘SOYBEAN SLURRY’- A New Effective, Economical and Environmentally Friendly Solution for Oil Congealing. SPE Project and Facilities Challenges Conference at METS, 13-16 Feb, Doha, Qatar. https://doi.org/10.2118/142658-MS. [PDF](https://doi.org/10.2118/142658-MS)
 
-### C) Oral Presentations
+### D) Oral Presentations
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2019). H44B-06: Insight into the Sealing Capacity of Mudrocks determined using a Digital Rock Physics Workflow. AGU Fall Meeting, 9-13 December, San Francisco, USA. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.H44B..06B/abstract)
 
@@ -195,7 +202,7 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 *Bihani A.* (2013). An Overview of High Pour-Point Oil and Heavy Oil Reserves in Upper Assam Basin. December 26th, Geology and Reservoir Department, Oil India Limited. Duliajan, Assam, India.
 
-### D) Poster Presentations 
+### E) Poster Presentations 
 
 *Bihani A.*, Daigle H., Santos J., Landry C., Prodanović M., Milliken K. (2019). Insight into the Sealing Capacity of Mudrocks determined using Digital Rock Physics. TACC Symposium for Texas Researchers (TACCSTER), 26-27 September, Austin, TX, USA. http://dx.doi.org/10.26153/tsw/6874. [PDF](http://dx.doi.org/10.26153/tsw/6874)
 
@@ -207,13 +214,13 @@ Punase A., *Bihani A.*, Patane A., John A., Arora A., Padalkar C. (2011). SPE 14
 
 *Bihani A.*, Haindade Z., Jain D. (2012). A study on Electrolysis assisted Gas-Lift for Dewatering CBM Reservoirs. Association of Petroleum Geologists Conference, 30 September, Duliajan, Assam, India. 
 
-### E) Published Datasets 
+### F) Published Datasets 
 
 *Bihani, A.*, & Daigle, H. (2019, March 5). Bidisperse sphere packs generated under gravity. Digital Rocks Portal. http://doi.org/10.17612/P74T20. [Data set](http://doi.org/10.17612/P74T20)
 
 *Bihani, A.*, Daigle, H., Prodanovic, M., Milliken, K., Landry, C., & E. Santos, J. (2020, January 20). Mudrock images from Nankai Trough. Digital Rocks Portal. https://doi.org/10.17612/BVXS-BC79. [Data set](https://doi.org/10.17612/BVXS-BC79) 
 
-### F) Published Code Repositories
+### G) Published Code Repositories
 
 *Bihani, A.*, & Daigle, H. (2020, September 9). Uniaxial Compaction and Force-chain Analysis of Bidisperse Grain Packs. Zenodo. http://doi.org/10.5281/zenodo.4021433. [Code](http://doi.org/10.5281/zenodo.4021433)
 
