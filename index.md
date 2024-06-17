@@ -4,11 +4,13 @@
 
 I am a Data Scientist using Machine/Deep Learning, Time Series Analysis, Image Processing, and Physics-informed neural networks (PINNs) in my work.
 
-I have experience building surrogate models of complex industrial and subsurface processes and I have completed the AWS Machine Learning Specialty certification (MLS-C01). I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources, so that we can use it to make optimal decisions that have a high impact on the end consumer.
+I have experience building surrogate models of complex processes over the last few years in industry and academic settings; I have worked on a variety of projects ranging from process control to minimize wafer bowing in the semiconductor industry to modeling subsurface geologies for carbon capture and storage (CCS). 
 
-I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations (eg. LBM, DEM etc.) in order to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources so that we can use it to make optimal decisions that have a high impact on the end-user. For example, I was the co-lead for data analysis of a survey of Canadian parliamentarians to understand the impact of COVID-19 on how they digest scientific data and how it affected their policy-making.
 
-Before graduate school, I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling. I completed my Bachelor of Petroleum Engineering from the University of Pune, and I interned at Oil and Natural Gas Corporation of India and Essar Oil Limited in Mumbai during my undergraduate studies.
+I did my Ph.D. at the University of Texas at Austin, where my doctoral research involved analyzing hydrocarbon/CO<sub>2</sub> flow in rocks through image analysis, semantic image segmentation using CNNs, and fluid flow simulations (eg. LBM, DEM etc.) to reduce risk during petroleum exploration or CO<sub>2</sub> sequestration. My Master’s research involved investigating gas hydrate deposits in Northern Gulf of Mexico to understand methane migration and accumulation in heterogeneous rocks using petrophysics, thermodynamics, and machine learning.
+
+Before graduate school, I completed my Bachelor of Petroleum Engineering from the University of Pune and then I worked as a Reservoir Engineer at Oil India Limited where our team improved oil recovery through reservoir and well-level analysis for 500+ wells using statistical analysis and modeling.
 
 ---
 
@@ -38,13 +40,6 @@ Generated a workflow for synthetic reconstruction of a missing nuclear magnetic 
 
 <img src="images/KC151-logs.png?raw=true" align="middle" width="400" height="300" alt="Well-logs at KC-151" >
 
-***
-
-[Home Credit Default Risk Recognition](https://github.com/abhishekdbihani/Home-Credit-Default-Risk-Recognition)
-
-Trained a binary classifier in Python to recognize the risk of housing loan default in imbalanced data using a complete end-to-end machine learning workflow. Used ETL processes to connect relational databases through automated feature engineering, and applied machine learning methods like logistic regression, random forest, and gradient boosting (Scikit-learn, XGBoost, LightGBM) for understanding client factors that cause loan default. Improved ROC AUC from 0.745 (base case) to 0.786 on the test dataset with K-fold cross-validation and hyperparameter tuning methods like grid/random search, and Bayesian optimization.
-
-<img src="images/roc_auc_compare.PNG?raw=true" align="middle" width="400" height="300" alt="ROC AUC classifier comparison" >
 
 ***
 
@@ -73,6 +68,29 @@ Co-developed and released an open-source computational simulation toolbox for mo
 Created a workflow to simulate creation of a bidisperse (two-sized) grain pack under gravity and study the grain behavior subjected to uniaxial compaction, using the LIGGGHTS library (C++) on HPC resources. Scripts for post-processing like calculating, plotting and visualizing coordination numbers and force chains to study the grain behavior when subjected to compaction are also provided.
 
 <img src="images/example%20compaction%20picture.png?raw=true" align="middle" width="550" height="320" alt="sem image">
+
+***
+
+[Home Credit Default Risk Recognition](https://github.com/abhishekdbihani/Home-Credit-Default-Risk-Recognition)
+
+Trained a binary classifier in Python to recognize the risk of housing loan default in imbalanced data using a complete end-to-end machine learning workflow. Used ETL processes to connect relational databases through automated feature engineering, and applied machine learning methods like logistic regression, random forest, and gradient boosting (Scikit-learn, XGBoost, LightGBM) for understanding client factors that cause loan default. Improved ROC AUC from 0.745 (base case) to 0.786 on the test dataset with K-fold cross-validation and hyperparameter tuning methods like grid/random search, and Bayesian optimization.
+
+<img src="images/roc_auc_compare.PNG?raw=true" align="middle" width="400" height="300" alt="ROC AUC classifier comparison" >
+
+---
+
+## Science Policy Activities
+
+---
+[Impact of the COVID-19 pandemic on the use of science in policymaking](https://sciencepolicy.ca/survey-of-parliamentarians/)
+
+Designed a survey for Canadian MPs and senators regarding the access, use, and exchange of scientific knowledge in Parliament to study the effect of the COVID-19 pandemic, as part of the team from the Canadian Science Policy Centre (CSPC). A total of 26 Parliamentarians participated in this study, representing different parties, genders, and geographic locations. I co-led the analysis of the survey data and we found that a majority of respondents reflected that the availability and applicability of scientific knowledge in policy-making has increased, as compared to before the pandemic. However, all respondents (regardless of political affiliation) have found that misinformation and disinformation have become more challenging to sift through and address.
+
+***
+
+[Canadian Science Policy Magazine 2023](https://sciencepolicy.ca/cspc-magazine-2023/)
+
+Served as Editorial Co-chair for the 2023 edition of the Canadian Science Policy Magazine to publish diverse science-based opinions of Canadian leaders from the government, industry, and academia on relevant current topics like climate change, space exploration, international scientific cooperation, and AI regulation.
 
 ---
 
@@ -254,10 +272,10 @@ Research Fellowship, U.S. Department of Energy,						                   UT Austi
 
 **Service**
 
-Editorial Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
+Co-Chair, Editorial Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
 <i> Source and edit articles from distinguished people relevant to the Canadian science policy space </i>
 
-Evaluation and Reports Committee,                                                           Canadian Science Policy Centre, 2021 - Present <br/>
+Project Co-Lead, Evaluation and Reports Committee,                                                           Canadian Science Policy Centre, 2021 - 2023 <br/>
 <i> Create surveys, analyze data and write reports for Canadian Science Policy Centre </i>
 
 Graduate Faculty Selection Committee, 								                         UT Austin, 2017 – 2019 <br/>
@@ -287,8 +305,6 @@ Webmaster, 	Toastmasters Club of Pune,  2009 – 2011 <br/>
 Member, Canadian Science Policy Centre (CSPC)
 
 Member, Toronto Machine Learning Society (TMLS)	
-
-Member, Aggregate Intellect (AISC)
 
 Member, American Geophysical Union (AGU)
 
