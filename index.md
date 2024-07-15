@@ -84,11 +84,15 @@ Trained a binary classifier in Python to recognize the risk of housing loan defa
 ---
 [Impact of the COVID-19 pandemic on the use of science in policymaking](https://sciencepolicy.ca/survey-of-parliamentarians/)
 
+<img src="images/cspc survey heading.png?raw=true" align="middle" width="600" height="250" alt="CSPC COVID-19 Parliamentarian survey">
+
 Designed a survey for Canadian MPs and senators regarding the access, use, and exchange of scientific knowledge in Parliament to study the effect of the COVID-19 pandemic, as part of the team from the Canadian Science Policy Centre (CSPC). A total of 26 Parliamentarians participated in this study, representing different parties, genders, and geographic locations. I co-led the analysis of the survey data and we found that a majority of respondents reflected that the availability and applicability of scientific knowledge in policy-making has increased, as compared to before the pandemic. However, all respondents (regardless of political affiliation) have found that misinformation and disinformation have become more challenging to sift through and address.
 
 ***
 
 [Canadian Science Policy Magazine 2023](https://sciencepolicy.ca/cspc-magazine-2023/)
+
+<img src="images/cspc2023 magazine cover page.png?raw=true" align="middle" width="200" height="300" alt="CSPC 2023 magazine cover">
 
 Served as Editorial Co-chair for the 2023 edition of the Canadian Science Policy Magazine to publish diverse science-based opinions of Canadian leaders from the government, industry, and academia on relevant current topics like climate change, space exploration, international scientific cooperation, and AI regulation.
 
@@ -114,7 +118,7 @@ Served as Editorial Co-chair for the 2023 edition of the Canadian Science Policy
 
 ---
 
-<img src="images/certification%20logos.png?raw=true" align="middle" width="600" height="250" alt="certification logos">
+<img src="images/certification%20logos2.jpg?raw=true" align="middle" width="600" height="250" alt="certification logos">
 
 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AbhishekBihani-4524/DA43AAE6DD285CFC?sharingId=EE335026D17B5B91). (2024). Microsoft.
 
