@@ -4,7 +4,7 @@
 
 I am a Data Scientist using Machine/Deep Learning, Time Series Analysis, Image Processing, and Physics-informed neural networks (PINNs) in my work.
 
-I have experience building surrogate models of complex processes over the last few years in industry and academic settings; I have worked on a variety of projects ranging from process control to minimize wafer bowing in the semiconductor industry to modeling subsurface geologies for carbon capture and storage (CCS). 
+I have experience building surrogate models of complex processes in industry and academic settings; I have worked on a variety of projects ranging from process control to minimize wafer bowing in the semiconductor industry to modeling subsurface geologies for carbon capture and storage (CCS) & petroleum exploration. 
 
 I am passionate about applying data science techniques to help analyze complex and huge datasets faster, objectively, and more accurately. I believe today's tools and technology can allow us to extract the maximum possible information from the different available data sources so that we can use it to make optimal decisions that have a high impact on the end-user. For example, I was the co-lead for data analysis of a survey of Canadian parliamentarians to understand the impact of COVID-19 on how they digest scientific data and how it affected their policy-making.
 
@@ -115,6 +115,8 @@ Served as Editorial Co-chair for the 2023 edition of the Canadian Science Policy
 ---
 
 <img src="images/certification%20logos.png?raw=true" align="middle" width="600" height="250" alt="certification logos">
+
+[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AbhishekBihani-4524/DA43AAE6DD285CFC?sharingId=EE335026D17B5B91). (2024). Microsoft.
 
 [AWS Certified Machine Learning - Specialty (MLS-C01)](https://www.youracclaim.com/earner/earned/badge/fef4071d-9451-4316-9258-df8b5b9bae2e) (2020). AWS.
 
