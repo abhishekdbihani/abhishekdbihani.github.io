@@ -79,22 +79,22 @@ Trained a binary classifier in Python to recognize the risk of housing loan defa
 
 ---
 
-## Science Policy Activities
+## Science Policy Projects
 
 ---
 [Impact of the COVID-19 pandemic on the use of science in policymaking](https://sciencepolicy.ca/survey-of-parliamentarians/)
 
-<img src="images/cspc survey heading.png?raw=true" align="middle" width="600" height="250" alt="CSPC COVID-19 Parliamentarian survey">
+Designed a survey for Canadian MPs and senators regarding the access, use, and exchange of scientific knowledge in Parliament to study the effect of the COVID-19 pandemic, as part of the team from the Canadian Science Policy Centre (CSPC), where a total of 26 Parliamentarians participated in this study. I co-led the analysis of the survey data and we found that a majority of respondents reflected that the availability and applicability of scientific knowledge in policy-making has increased, as compared to before the pandemic. However, the survey results also highlighted that all respondents (regardless of political affiliation) found that misinformation and disinformation have become more challenging to sift through and address.
 
-Designed a survey for Canadian MPs and senators regarding the access, use, and exchange of scientific knowledge in Parliament to study the effect of the COVID-19 pandemic, as part of the team from the Canadian Science Policy Centre (CSPC). A total of 26 Parliamentarians participated in this study, representing different parties, genders, and geographic locations. I co-led the analysis of the survey data and we found that a majority of respondents reflected that the availability and applicability of scientific knowledge in policy-making has increased, as compared to before the pandemic. However, all respondents (regardless of political affiliation) have found that misinformation and disinformation have become more challenging to sift through and address.
+<img src="images/cspc survey heading.png?raw=true" align="middle" width="600" height="250" alt="CSPC COVID-19 Parliamentarian survey">
 
 ***
 
 [Canadian Science Policy Magazine 2023](https://sciencepolicy.ca/cspc-magazine-2023/)
 
-<img src="images/cspc2023 magazine cover page.png?raw=true" align="middle" width="200" height="300" alt="CSPC 2023 magazine cover">
-
 Served as Editorial Co-chair for the 2023 edition of the Canadian Science Policy Magazine to publish diverse science-based opinions of Canadian leaders from the government, industry, and academia on relevant current topics like climate change, space exploration, international scientific cooperation, and AI regulation.
+
+<img src="images/cspc2023 magazine cover page.png?raw=true" align="middle" width="250" height="400" alt="CSPC 2023 magazine cover">
 
 ---
 
